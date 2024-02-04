@@ -17,4 +17,4 @@ startPeriod(){
 
 }
 
-module.exports= ;
+module.exports= School;
